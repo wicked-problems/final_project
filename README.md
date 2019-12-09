@@ -8,7 +8,7 @@ This is my final project on Liberia
 
 ## Population Liberia's Counties
 
-![](liberia copy.png)
+![](cntylbr_pop.png)
 
 ## Log of Population of Liberia's 
 
