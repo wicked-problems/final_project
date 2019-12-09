@@ -8,8 +8,12 @@ This is my final project on Liberia
 
 ## Population Liberia's Counties
 
-<img src="https://github.com/wicked-problems/final_project/blob/master/cntylbr_pop.png" width=100 align=left>
+<img src="https://github.com/wicked-problems/final_project/blob/master/cntylbr_pop.png" width=1200 align=left>
 
 ## Log of Population of Liberia's 
 
 ![](lbrdist_logpop19b.png)
+
+<video controls width="250">
+    <source src="https://github.com/wicked-problems/final_project/blob/master/liberia.mp4" type="video/mp4">
+</video>
