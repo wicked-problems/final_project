@@ -6,3 +6,10 @@ This is my final project on Liberia
 
 ![](details.png)
 
+## Population Liberia's Counties
+
+![](liberia copy.png)
+
+## Log of Population of Liberia's 
+
+![](lbrdist_logpop19b.png)
